@@ -7,24 +7,31 @@ After our trip to New York City, we were so impressed with the bikesharing progr
 ## Results
 
 ### Checkout Times: 
+[checkout times](https://public.tableau.com/app/profile/remi.h5131/viz/CheckoutTimeforUsers_16409122011740/Sheet1 "checkout times")
 This line graph shows the number bike rides and how long each ride lasted. We can see that most rides are under one hour long, and the most frequent ride length is about five minutes. This means we should have bike sharing stations about five minutes away from each other for the convenience of the users. 
 
 ### Checkout Times by Gender:
+[checkout times by gender](https://public.tableau.com/app/profile/remi.h5131/viz/CheckoutTimebyGender_16409126907490/CheckoutByGender "checkout times by gender")
 This graph is similar to the previous one, but now it has been sorted by gender. We see that males are the most frequent users.
 
 ### Trips by Weekday:
+[trips by weekday](https://public.tableau.com/app/profile/remi.h5131/viz/TripsbyWeekday_16409138265210/TripsbyWeekday "trips by weekday")
 This is a heatmap of bike usage sorted by days of the week and hours of each day. During weekdays, 7am to 9am and 4pm to 7pm are the most frequent trip times. On weekends, trip times are spread more evenly from 9am to 7pm. 
 
 ### Trips by Gender:
+[trips by gender](https://public.tableau.com/app/profile/remi.h5131/viz/TripsbyGender_16409142532100/TripsbyGender "trips by gender")
 This graph separates the heatmaps for all three gender categories: Male, Female and Unknown. These heatmaps are consistent with the previous section and that proportional usage is not much different across genders. 
 
 ### Usertype Trips by Gender and Weekday:
+[usertype trips by gender and weekday](https://public.tableau.com/app/profile/remi.h5131/viz/UserTripsbyGenderandWeekday/UserTripsbyGenderandWeekday "usertype trips by gender and weekday")
 This graph shows that subscribers are most active on weekdays, while one-time customers are using the bikes mostly on weekends. The subscribers may be using the bikes to get to and from their place of employment, while one-time customers may be using the bikes to sightsee on weekends. This highlights two different demographics: NYC residents and tourists.
 
 ### August Peak Hours:
+[august peak hours](https://public.tableau.com/app/profile/remi.h5131/viz/AugustPeakHours_16396194428610/Sheet3 "august peak hours")
 This bar graph shows the number of rides per hour of the day, and we see that 8am and 5pm are the most active times of the day for bike rides. Also, the least active are the hours between 2am and 5am, so this is where we should dedicate our maintenance time.
 
 ### Top Starting Locations:
+[top starting locations](https://public.tableau.com/app/profile/remi.h5131/viz/TopStartingLocations_16396195541460/Sheet4 "top starting locations")
 This map shows how close bike stations are to each other and the frequency of each station as a starting point. It would be best for bike stations to be located near tourist locations but also residential areas. 
 
 ## Summary
